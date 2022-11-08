@@ -1,0 +1,29 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.name {
+    color: purple;
+}
+
+.profile-img {
+    max-width: 450px;
+}
+
+.jumbotron {
+    background-image: url(../images/2066.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.sectionHeading {
+    text-align:center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.skills-img {
+    max-width: 900px;
+}
